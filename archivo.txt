@@ -1,1 +1,22 @@
-Mi primer archivo
+ Preguntas:
+ 	1- Si el Titular es Empleado Provincial el tramite se inicia aqui
+	   o se hace en Caja de jub. de Entre Rios ?.
+
+	2- Solicitar el Listado de Aportes realizados.
+		a- Por que sale a partir del año 2005 ?
+		b- Es necesario llevar esta información
+		   para el inicio del tramite ? 
+        
+	3- Hay otro tipo de información que deba solicitarse en ANSES
+	   para el inicio del tramite jubilatorio como Agente del Estado
+	   Provincial ?
+
+	4- Con que anticipación se puede presentar la documentación para
+	   dar inicio al tramite ?
+
+	5- Si hubiera algun otro tramite que deba realizarce en ANSES,
+	   puede venir el Apoderado a realizarlo.
+
+	   En el caso de que sea así, se puede solicitar aqui mismo un
+	   turno, o hay que hacerlo nuevamente por Internet.
+
